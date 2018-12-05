@@ -6,10 +6,6 @@
  *     1) most web browsers support UTF-8 characters in URLs
  *     2) transliteration causes a loss of information
  *
- * @author Sean Murphy <sean@iamseanmurphy.com>
- * @copyright Copyright 2012 Sean Murphy. All rights reserved.
- * @license http://creativecommons.org/publicdomain/zero/1.0/
- *
  * @param string $str
  * @param array $options
  * @return string
